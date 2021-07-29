@@ -4,7 +4,7 @@
 
 My Stats
 
-![Kartikay's github stats](https://github-readme-stats.vercel.app/api?username=Kartikay22)
+![Kartikay's github stats](https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple)
 
 
 ### Heres About Me -
