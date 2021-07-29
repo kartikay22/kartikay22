@@ -7,7 +7,7 @@
 +  🌱 I’m currently learning Python Pyrogram
 +  💬 Ask me about anything, I am happy to help you
 +  Fun-Fact: I'm Noob
-+  Reach me at [Telegram](https://t.me/Kartikay)
++  Reach me at [Telegram](https://t.me/Kartikay_bhasin)
 
 
 ### Pro Tip
