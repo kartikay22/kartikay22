@@ -1,6 +1,6 @@
 - ### Hi there 👋
 
-<img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
+<https://telegra.ph/file/d26bb80f68237c9bbc32b.jpg>
 
 My Stats
 
@@ -17,7 +17,7 @@ My Stats
 
 ### Pro Tip
 
-- If You Copy Someones Works Please Give him/her credits
+- If You Copy Someones Works Please Give him/her credits 
 
 ### About Me-
 
