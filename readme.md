@@ -10,7 +10,7 @@
 - I’m currently learning Python Pyrogram
 - Ask me about anything, i'll try to help you out :D
 - Fun-Fact: I'm a learner :D
-+ -Reach me at [Telegram](https://t.me/Kartikay)
++ Reach me at [Telegram](https://t.me/Kartikay)
 
 
 ### Pro Tip
