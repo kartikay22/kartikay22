@@ -7,10 +7,9 @@
 ![Kartikay's github stats](https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple)
 
 ### Heres About Me -
-
-+  🌱 I’m currently learning Python Pyrogram
-+  💬 Ask me about anything, I am happy to help you
-+  Fun-Fact: I'm Noob
+- I’m currently learning Python Pyrogram
+- Ask me about anything, i'll try to help you out :D
+- Fun-Fact: I'm a learner :D
 +  Reach me at [Telegram](https://t.me/Kartikay)
 
 
