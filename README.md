@@ -13,6 +13,11 @@
 - Reach me at [Telegram](https://t.me/Kartikay_bhasin)
 - <p align="left"> <a href="https://github.com/kartikay22"><img src="https://komarev.com/ghpvc/?username=Kartikay22&label=Profile%20views&color=0e75b6&style=flat" alt="Kartikay22" /></a> </p>
 
+# MOST USED LANGUAGE
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay22&theme=midnight-purple)
+
+
 
 ### Pro Tip
 
