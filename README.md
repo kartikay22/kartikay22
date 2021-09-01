@@ -3,7 +3,7 @@
 <img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
 
 ### My Stats
-![Kartikay's github stats](https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple)
+<p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple' width='500"'></p>
 
 <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Kartikay22&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Kartikay22&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 
