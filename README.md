@@ -1,7 +1,4 @@
-# Kartikay
-
 ### Hi 👋👋
-
 
 <p align='Middle'><a href='https://t.me/Kartikay_bhasin'><img src='https://telegra.ph/file/cee29040b397d3ce9ee4a.jpg' width='750"'></a></p>
 
