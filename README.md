@@ -20,6 +20,19 @@
 </p>
 </a>
 </details>
+                                                                                                                                            
+<details>
+<summary>⚜️ My Info
+- State- India, Maharashtra
+
+- Class- 11th
+
+- Fun Fact- I Never Thought That you will Visit my Git profile😂😂
+                                                                                                                                            
+- I did some silly mistake like not giving credits
+
+- I Reallised That Makin A Modules Takes effort 
+</details>
 
 <details>
 <summary>⚜️ Currently Listening</summary>
