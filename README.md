@@ -5,7 +5,6 @@
 ### My Stats
 ![Kartikay's github stats](https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple)
 
-<img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Kartikay22&count_private=true&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=000000&hide_border=true">
 
 ### Heres About Me -
 
