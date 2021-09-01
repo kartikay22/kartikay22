@@ -18,7 +18,7 @@
 
 # MOST USED LANGUAGE
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay22&theme=midnight-purple)
+<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay22&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
 
 ### Pro Tip
 
