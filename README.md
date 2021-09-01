@@ -3,6 +3,8 @@
 ### Hi 👋👋
 
 
+<p align='Middle'><a href='https://t.me/Kartikay_bhasin'><img src='https://telegra.ph/file/cee29040b397d3ce9ee4a.jpg' width='750"'></a></p>
+
 <details>
 <summary>⚜️ Most Used Languages</summary>
 <a href="https://github.com/Kartikay22">
