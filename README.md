@@ -33,7 +33,7 @@
 
 ### My Device
 
-- HP Pavilion 15 T a low end laptop 😂
+- HP Pavilion 15 T a low end laptop 😂😂😂
 
 - fav. DJ- Alan Walker <p align='centre'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://telegra.ph/file/379a29bcd73a448e0aa33.jpg' width='125"'></a></p>
 
