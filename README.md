@@ -53,4 +53,6 @@
 - fav. DJ- Alan Walker <p align='centre'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://telegra.ph/file/379a29bcd73a448e0aa33.jpg' width='125"'></a></p>
 
 - Fav. Song- Ignite, Diamond Heart, Faded , etc.....
-  <img align="bottom" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ignite Spotify Playing" width="400" />
+
+### Source Code Editor  I prefer
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
