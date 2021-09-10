@@ -14,6 +14,7 @@
 - I'm looking to collab with you ;D
 - Ask me about anything, i'll try to help you out :D
 - Fun-Fact: I'm a learner ;D
+- Reach me at [Telegram](https://t.me/Kartikay_bhasin)
 
 # Contact Me 
 
