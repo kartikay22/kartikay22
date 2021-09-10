@@ -1,6 +1,6 @@
 ### Hi 👋👋
 
-<https://telegra.ph/file/be9cffca62d9433fbed4b.mp4 width='250"'>
+https://telegra.ph/file/be9cffca62d9433fbed4b.mp4 
 
 ### My Stats
 ![Kartikay github stats](https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple)
