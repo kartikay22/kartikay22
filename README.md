@@ -1,5 +1,5 @@
 ### Hi 👋👋
-width='250"'
+
 <p align='Middle'><a href='https://t.me/Kartikay_bhasin'><img src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'></a></p>
 
 <details>
