@@ -1,6 +1,6 @@
 ### Hi 👋👋
 
-<p align='Middle'><a href='https://t.me/Kartikay_bhasin'><img src='https://edit.telegra.ph/auth/rsaOvjmucUfwlqnJzfAfAGPkUUz3AqD0QOOl58Pi02' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/Kartikay_bhasin'><img src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='750"'></a></p>
 
 <details>
 <summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Kartikay22&show_icons=true&theme=midnight-purple' width='500"'></p>
