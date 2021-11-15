@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python Pyrogram
 - 💬 Ask me about anything, I am happy to help you
 - Fun-Fact: I'm Noob
-- Reach me at [Telegram](t.me/kartikay_bhasin)
+- Reach me at [Telegram](https://t.me/Kartikay_bhasin)
 
 # MOST USED LANGUAGE
 
@@ -25,7 +25,7 @@
 
 ### About Me-
 
-- State- India, Delhi
+- State- India, Maharashtra
 
 - Class- 11th
 
